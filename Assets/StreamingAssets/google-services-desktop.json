@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645455617554",
+    "firebase_url": "https://woodcraft-def4a-default-rtdb.firebaseio.com",
+    "project_id": "woodcraft-def4a",
+    "storage_bucket": "woodcraft-def4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645455617554:android:7967788bd1483763d942cb",
+        "android_client_info": {
+          "package_name": "com.gamsole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645455617554-vcmo65u81mfq5eq58rfm5fk4vn6k8veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxtf7ENwR-3p-sKszmDYscan-kC7iFBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645455617554-vcmo65u81mfq5eq58rfm5fk4vn6k8veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
